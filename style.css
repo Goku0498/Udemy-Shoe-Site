@@ -1,0 +1,53 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+
+.first {
+  border: 4px solid #000;
+}
+
+h1 {
+  text-align: center;
+  background-color: #d3eaed;
+}
+
+.format1 {
+  font-size: 24px;
+}
+
+.fs {
+  color: rgba(100, 106, 106, 0.8);
+  text-transform: uppercase;
+  font-size: small;
+  font-weight: bold;
+}
+
+a:link {
+  color: #444;
+  text-decoration: underline solid #444;
+}
+
+a:visited {
+  color: #444;
+}
+a:hover {
+  color: #444;
+  text-decoration: none;
+}
+
+li {
+  list-style: square;
+}
+
+.button {
+  background-color: #000;
+  color: #fff;
+  font-size: large;
+}
+
+.button:hover {
+  background-color: #fff;
+  color: #000;
+  border: none;
+}
